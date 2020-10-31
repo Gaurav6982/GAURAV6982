@@ -21,7 +21,7 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-
+  ![GAURAV's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
   <img align="left" alt="GAURAV's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=GAURAV6982&show_icons=true&hide_border=true" />
 
 </details>
