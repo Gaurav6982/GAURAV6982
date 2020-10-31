@@ -22,7 +22,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
  
-  <img align="left" alt="GAURAV's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true" />
+  <img align="left" alt="GAURAV's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=GAURAV6982&count_private=true" />
 
 </details>
 
