@@ -38,7 +38,8 @@
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
 
 </details>
-[instagram]: https://www.instagram.com/28_gaurav_07/
-[twitter]: https://twitter.com/GauravK03801686
-[linkedin]: https://www.linkedin.com/in/gaurav-kumar-51788a194/
 
+
+[twitter]: https://twitter.com/GauravK03801686
+[linkedin]: https://www.linkedin.com/in/gaurav-kumar-51788a194
+[instagram]: https://www.instagram.com/28_gaurav_07
