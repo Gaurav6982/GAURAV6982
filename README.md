@@ -19,13 +19,10 @@
 <br />
 <br />
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
- 
+
+
+
   <img align="left" alt="GAURAV's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=GAURAV6982&count_private=true" />
-
-</details>
-
 
 [twitter]: https://twitter.com/GauravK03801686
 [linkedin]: https://www.linkedin.com/in/gaurav-kumar-51788a194
